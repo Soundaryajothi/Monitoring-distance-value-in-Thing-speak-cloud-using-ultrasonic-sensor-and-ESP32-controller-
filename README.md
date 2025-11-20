@@ -160,7 +160,5 @@ void loop()
 
 
 # RESULT:
-
-Thus the Ultrasonic sensor value is uploaded in the Things mate using Arduino controller.
-
+Thus the distance values are updated in the Thing speak cloud using ESP32 controller.
 
