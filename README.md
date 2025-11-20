@@ -1,4 +1,4 @@
-# EX 6 - Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+# EX 6 - Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
 # Name:SOUNDARYA 
 # Reg no:212223220108
 
